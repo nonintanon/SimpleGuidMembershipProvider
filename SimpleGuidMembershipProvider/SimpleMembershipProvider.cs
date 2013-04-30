@@ -106,9 +106,9 @@ namespace nonintanon.Security
             }
         }
 
-        internal static string MembershipTableName { get { return "webpages_Membership"; } }
-        internal static string OAuthMembershipTableName { get { return "webpages_OAuthMembership"; } }
-        internal static string OAuthTokenTableName { get { return "webpages_OAuthToken"; } }
+        internal static string MembershipTableName { get { return "security_Membership"; } }
+        internal static string OAuthMembershipTableName { get { return "security_OAuthMembership"; } }
+        internal static string OAuthTokenTableName { get { return "security_OAuthToken"; } }
 
         private string SafeUserTableName { get { return "[" + UserTableName + "]"; } }
         private string SafeUserIdColumn { get { return "[" + UserIdColumn + "]"; } }
