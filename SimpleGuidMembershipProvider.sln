@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nonintanon.Security.SimpleGuidMembershipProvider.WebSample", "SimpleGuidMembershipProvider.WebSample\nonintanon.Security.SimpleGuidMembershipProvider.WebSample.csproj", "{20310A47-77D6-486F-989A-EBC84809D4FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nonintanon.Security.SimpleGuidMembershipProvider", "SimpleGuidMembershipProvider\nonintanon.Security.SimpleGuidMembershipProvider.csproj", "{1B073A31-4F2D-4395-ADAC-0BB37782DBBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20310A47-77D6-486F-989A-EBC84809D4FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20310A47-77D6-486F-989A-EBC84809D4FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20310A47-77D6-486F-989A-EBC84809D4FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20310A47-77D6-486F-989A-EBC84809D4FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B073A31-4F2D-4395-ADAC-0BB37782DBBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B073A31-4F2D-4395-ADAC-0BB37782DBBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B073A31-4F2D-4395-ADAC-0BB37782DBBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B073A31-4F2D-4395-ADAC-0BB37782DBBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
