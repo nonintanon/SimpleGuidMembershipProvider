@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>SimpleGuidMembershipProvider</id>
+    <version>1.0.1</version>
+    <title />
+    <authors>nonintanon</authors>
+    <owners>nonintanon</owners>
+    <projectUrl>https://github.com/nonintanon/SimpleGuidMembershipProvider</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>SimpleMembershipProvider is awesome and easy but using Int for UserId is not good enough. We want Guid and here it is!</description>
+    <dependencies>
+      <dependency id="DotNetOpenAuth.AspNet" version="4.3.0.13117" />
+      <dependency id="DotNetOpenAuth.OpenId.Core" version="4.3.0.13117" />
+      <dependency id="DotNetOpenAuth.OpenId.RelyingParty" version="4.3.0.13117" />
+      <dependency id="DotNetOpenAuth.Core" version="4.3.0.13117" />
+      <dependency id="DotNetOpenAuth.OAuth.Core" version="4.3.0.13117" />
+      <dependency id="DotNetOpenAuth.OAuth.Consumer" version="4.3.0.13117" />
+    </dependencies>
+  </metadata>
+</package>
