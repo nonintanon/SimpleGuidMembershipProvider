@@ -1,19 +1,22 @@
-SimpleGuidMembershipProvider
-============================
+How to use SimpleGuidMembershipProvider
+===
 
-NuGet Package - https://nuget.org/packages/SimpleGuidMembershipProvider/
-
-NuGet Package - https://nuget.org/packages/SimpleGuidMembershipProvider.ForEmptyWeb/
-
-PM> Install-Package SimpleGuidMembershipProvider
-
-PM> Install-Package SimpleGuidMembershipProvider.ForEmptyWeb
+---
 
 
-Usage:
+Brand New Web Site
+---
 
-1) Create ASP.NET MVC 4 Empty
+Following these steps:
 
-2) Get NuGet Package "Install-Package SimpleGuidMembershipProvider.ForEmptyWeb"
+1. Create ASP.NET MVC 4 "Empty" Project
+2. Get package from NuGet "PM> Install-Package SimpleGuidMembershipProvider.ForEmptyWeb"
+3. Have fun!
 
-3) Have fun!
+https://nuget.org/packages/SimpleGuidMembershipProvider.ForEmptyWeb/
+
+Existing Web Site
+---
+Get package from NuGet "PM> Install-Package SimpleGuidMembershipProvider"
+
+https://nuget.org/packages/SimpleGuidMembershipProvider/
